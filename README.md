@@ -1,12 +1,10 @@
 # Deep Learning Specialization on Coursera (offered by deeplearning.ai)
+- Notes, programming assignments and quizzes from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
 
-Notes, programming assignments and quizzes from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
-
-Instructor: [Andrew Ng](http://www.andrewng.org/)
+- Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Credits
-
-This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning), unless specified otherwise.
+- This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning), unless specified otherwise.
 
 ## Programming Assignments
 
@@ -50,7 +48,7 @@ This repo contains my work for this specialization. The code base, quiz question
   - [Week 3 - PA 1 - Neural Machine Translation with Attention](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%203/Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)  
   - [Week 3 - PA 2 - Trigger Word Detection](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C5%20-%20Sequence%20Models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)   
 
-## (Unofficial) lecture notes
+## (Unofficial) Lecture notes
 Credits to [Mahmoud Badry](https://github.com/mbadry1) for the unofficial lecture notes. 
 
 ## Disclaimer
